@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sanuxp
 - 👀 I’m interested in internships and projects
 - 🌱 I’m currently learning Data Science and Data Structures
+- 🐍 I'm a python developer
 - 💞️ I’m looking to collaborate in projects, hackathons, and all other exciting works
 - 📫 Reach me at sanu848114@gmail.com
 
