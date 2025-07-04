@@ -12,7 +12,7 @@ Automation · Scripting · Web Scraping · PyTorch · Scikit-Learn · OpenCV · 
 ### Projects That Ship  
 | Project | What It Does | Tech Highlights |
 |---------|--------------|-----------------|
-| [**Deepfake Sentinel**](https://github.com/sanuxp/Deepfake-Detection-using-GANs-and-XceptionNet) | Flags AI-generated faces with 67% F1 on DFDC-mini. | PyTorch, GAN fingerprints, Transfer Learning (XceptionNet), OpenCV |
+| [**Deepfake Sentinel**](https://github.com/sanuxp/Deepfake-Detection-using-GANs-and-XceptionNet) | Flags AI-generated faces with 67% F1 on Celeb-DF-v2. | PyTorch, GAN fingerprints, Transfer Learning (XceptionNet), OpenCV |
 | [**Sentiment Sleuth**](https://github.com/sanuxp/Sentiment-Analysis-using-Machine-Learning) | End-to-end sentiment pipeline → clean dashboards. | NLTK, Scikit-learn, pandas, Streamlit |
 | **Insight Research Assistant** | LangChain + Tavily RAG engine for instant cited briefs. | LLMs, retrieval, prompt orchestration |
 | **Object Detection Tool** *(unpublished)* | Detects and tracks objects in images using YOLO. | PyTorch, YOLOv5, OpenCV, TorchVision transforms |
